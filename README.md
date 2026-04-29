@@ -80,7 +80,7 @@ print("Actual Number of Occupants:", y_occ_test)
 
 ## Output:
 
-
+<img width="653" height="120" alt="ML EXP-4" src="https://github.com/user-attachments/assets/da10066e-ee33-4792-be50-4903884942c0" />
 
 ## Result:
 Thus the program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor is written and verified using python programming.
